@@ -1,0 +1,56 @@
+<div class="ultimatedropdown">
+    <ul>
+        <li><a href="#">Nhạc trẻ</a>
+            <ul>
+                <li><a href="https://www.anhvaem.net/">Trang Chủ</a></li>
+                <li><a href="https://nhaconline.anhvaem.us/">Nhạc Anh Và Em 1</a></li>
+                <li><a href="https://www.anhvaem.us/">Nhạc Anh Và Em 2</a></li>
+                <li><a href="/">Cô gái à em đừng khóc</a></li>
+                <li><a href="2.html">Mình là người yêu cũ</a></li>
+                <li><a href="emgaithichballad.html">Em Gái Thích Ballad</a></li>
+                <li><a href="miumusich.html"> Miu Music</a></li>
+                <li><a href="mynxinh.html"> Myn Xinh</a></li>
+            </ul>
+        </li>
+        <li><a href="#">Nhạc vàng</a>
+            <ul>
+                <li><a href="1.html">Giọng hát trời ban</a></li>
+                <li><a href="4.html">Nhạc Vàng Gái Xinh</a></li>
+                <li><a href="rumbagaixinh.html">Rumba Gái Xinh</a></li>
+                <li><a href="nhacsongtonghop.html">Nhạc Sống Tổng Hợp</a></li>
+                 <li><a href="nhacsongcodien.php">Nhạc Sống Cổ Điển</a></li>
+                <li><a href="QPBolero.html">QP Bolero</a></li>
+                <li><a href="Blorogaynghien.html">Bolero gây nghiện</a></li>
+                <li><a href="nhacvanggaixinh1.html">Bolero gái xinh</a></li>
+                <li><a href="Bolerocamsuc.html">Bolero cam súc</a></li>
+                <li><a href="nhacsongtonghop1.html">Tổng kho nhạc việt</a></li>
+            </ul>
+        </li>
+        <li><a href="#">Nhạc DJ</a>
+            <ul>
+                <li><a href="1hort.html"> Hour Remix</a></li>
+                <li><a href="nhạccllub.html">NHAC DJ CLUB</a></li>
+                <li><a href="tuyetphamnhachoa.html">Tuyệt Phẩm DJ 8X 9X</a></li>
+                <li><a href="3.html">DJ TRANG MON</a></li>
+                <li><a href="rimixviet.html"> Remix việt</a></li>
+                <li><a href="smlmusich.html">SML Remix</a></li>
+                <li><a href="djchina.html">DJ China</a></li>
+            </ul>
+        </li>
+    </ul>
+    <br style="clear: left" />
+</div>
+
+<style>
+    /* Paste toàn bộ phần <style> của bạn vào đây */
+    .ultimatedropdown { font: bold 16px 'Bitter', sans-serif; background: #BC1818; position: relative; width: 100%; border-radius: 100px; margin: 0 auto; }
+    .ultimatedropdown ul { z-index: 100; margin: 0; padding: 0; position: relative; list-style: none; }
+    .ultimatedropdown ul li { position: relative; display: inline; float: left; }
+    .ultimatedropdown ul li a { display: block; position: relative; background: #BC1818; color: white; padding: 14px 10px; border-radius: 100px; text-decoration: none; }
+    .ultimatedropdown ul li:hover > a { background: #a83a34; }
+    .ultimatedropdown ul li ul { position: absolute; left: -5000px; opacity: 0; width: 170px; visibility: hidden; box-shadow: 2px 2px 5px gray; transition: opacity .3s; }
+    .ultimatedropdown ul li:hover > ul { visibility: visible; left: 0; opacity: 1; }
+    .ultimatedropdown ul li ul li { display: list-item; float: none; }
+    .ultimatedropdown ul li ul li a { font: normal 14px 'Bitter', sans-serif; padding: 10px; background: #9B5323; }
+    /* ... (Các phần CSS còn lại của bạn) ... */
+</style>
