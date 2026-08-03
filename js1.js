@@ -79,12 +79,33 @@ if (targetContainer) {
     const PER_PAGE = 5; // Số lượng item trên 1 trang
 
     // 👉 TÚ KHAI BÁO DANH SÁCH LINK WEB VÀO ĐÂY:
-    const files = [
-        'https://www.anhvaem.net/p/van-nguyen-dau-cho-gian-kia-ay-mi',
-        'https://www.anhvaem.net/p/sinesyn-thailand-girl-beautiful',
-        'https://www.anhvaem.net/p/ngoc-anh-mua-nay-la-mua-em-yeu-oi-xin',
-        'https://www.anhvaem.net/p/ngan-foxie-em-ay-khong-thich-tra-ao-em',
-        'https://www.anhvaem.net/p/ly-be-anh-noi-thich-em-tu-au-co-phai-la'
+      const files = [
+        'https://www.anhvaem.net/p/van-nguyen-dau-cho-gian-kia-ay-mi.html',
+        'https://www.anhvaem.net/p/sinesyn-thailand-girl-beautiful.html',
+        'https://www.anhvaem.net/p/ngoc-anh-mua-nay-la-mua-em-yeu-oi-xin.html',
+        'https://www.anhvaem.net/p/ngan-foxie-em-ay-khong-thich-tra-aoem.html',
+        'https://www.anhvaem.net/p/ly-be-anh-noi-thich-em-tu-auco-phai-la.html',
+        'https://www.anhvaem.net/p/lan-vy-lua-gan-rom-lau-ngay-cung.html',
+        'https://www.anhvaem.net/p/jieanlie-thailand-like-mellow-sun.html',
+        'https://www.anhvaem.net/p/janie-tam-hon-nho-hanh-phuc-to.html',
+        'https://www.anhvaem.net/p/ikuta-eiki-japan-beautiful.html',
+        'https://www.anhvaem.net/p/heiscn-beautiful-schoolgirl.html',
+        'https://www.anhvaem.net/p/beer-passaranan-thien-than-la-co-that.html',
+        'https://www.anhvaem.net/p/areeya-suan-thailand-girl_059444033.html',
+        'https://www.anhvaem.net/p/album-cute-chinese-girl.html',
+        'https://www.anhvaem.net/p/a_01795431137.html',
+        'https://www.anhvaem.net/p/abuml-anh-gai-xinh-14.html',
+        'https://www.anhvaem.net/p/abuml-anh-11.html',
+        'https://www.anhvaem.net/p/hinh-anh-gai-xinh-10.html',
+        'https://www.anhvaem.net/p/abuml-anh-gai-xinh-9.html',
+        'https://www.anhvaem.net/p/anh-gai-xinh-8.html',
+        'https://www.anhvaem.net/p/abuml-anh-gai-xinh-5_24.html',
+        'https://www.anhvaem.net/p/abuml-anh-gai-xinh-6.html',
+        'https://www.anhvaem.net/p/abuml-anh-gai-xinh-5_6.html',
+        'https://www.anhvaem.net/p/hinh-anh-gai-xinh-4.html',
+        'https://www.anhvaem.net/p/hinh-anh-gai-xinh-2.html',
+        'https://www.anhvaem.net/p/anh-gai-xinh-2.html',
+        'https://www.anhvaem.net/p/anh-gai-xinh-2.html'
     ];
 
     const TOTAL_FILES = files.length;
