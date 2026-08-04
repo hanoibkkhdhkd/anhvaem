@@ -105,7 +105,12 @@ if (targetContainer) {
         'https://www.anhvaem.net/p/hinh-anh-gai-xinh-4.html',
         'https://www.anhvaem.net/p/hinh-anh-gai-xinh-2.html',
         'https://www.anhvaem.net/p/anh-gai-xinh-2.html',
-        'https://www.anhvaem.net/p/anh-gai-xinh-2.html'
+        'https://www.anhvaem.net/p/anh-gai-xinh-2.html',
+         'https://www.anhvaem.net/p/chua-dang-11.html',
+      'https://www.anhvaem.net/p/chua-dang-10.html',
+           'https://www.anhvaem.net/p/hinh-nen-gai-xinh-4k-chu-dang.html',
+         'https://www.anhvaem.net/p/gai-xinh-viet-chua-dang.html',
+         'https://www.anhvaem.net/p/a_0862391684.html'
     ];
 
 
